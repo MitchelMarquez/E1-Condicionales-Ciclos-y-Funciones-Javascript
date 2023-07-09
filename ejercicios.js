@@ -102,7 +102,7 @@ let arraynum1= ["0", "1"," 2","3", "4"," 5","6", "7"," 8","9", "10"]
 
 function imprimirArraymenos5ta( arraynum){
     
-    for (let index = 0; index < arraynum1[4]; index++) {
+    for (let index = 0; index <= arraynum1[10]; index++) {
         if (arraynum1[index] ??= arraynum1[4]) {
           console.log(arraynum1[index]);  
         }
